@@ -1,0 +1,1 @@
+Result of Gauss Quadrature: -nan(ind)

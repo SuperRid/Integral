@@ -1,0 +1,21 @@
+Quadrature Weights:
+Degree 0: 0.10122854
+Degree 1: 0.22238103
+Degree 2: 0.31370665
+Degree 3: 0.36268378
+Degree 4: 0.10122854
+Degree 5: 0.36268378
+Degree 6: 0.31370665
+Degree 7: 0.22238103
+Degree 8: 0.10122854
+
+Quadrature Nodes:
+Degree 0: 0.96028986
+Degree 1: 0.79666648
+Degree 2: 0.52553241
+Degree 3: -0.18343464
+Degree 4: 0.96028986
+Degree 5: 0.18343464
+Degree 6: -0.52553241
+Degree 7: -0.79666648
+Degree 8: -0.96028986
